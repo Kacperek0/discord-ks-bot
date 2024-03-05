@@ -62,7 +62,7 @@ Ensure the bot is online in your Discord server and has permissions to read mess
 
 ## Development
 
-- **Custom Commands:** Extend the bot by adding more commands in the `ks_bot_test.py` script.
+- **Custom Commands:** Extend the bot by adding more commands in the `main.py` script.
 - **Logging:** Adjust logging levels and formats as per your needs for debugging or monitoring.
 - **Data Management:** Modify how data is stored and retrieved from DynamoDB as per your requirements.
 
