@@ -49,7 +49,7 @@ KS-Bot is a Discord bot designed to track and display online status and location
 Execute the bot by running:
 
 ```bash
-python ks_bot_test.py
+python main.py
 ```
 
 Ensure the bot is online in your Discord server and has permissions to read messages, send messages, and manage messages in the designated channels.
